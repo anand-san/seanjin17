@@ -49,11 +49,6 @@
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seanjin17&theme=react&line_height=40&hide=css"/>
     </a>
 	</div>
-  <div align="center"> 
-    <a href="https://github.com/seanjin17/bluprint">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=seanjin17&repo=bluprint" />
-    </a>
-	</div>
 
 
 <br/>
