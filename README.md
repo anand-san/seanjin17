@@ -9,7 +9,7 @@
 
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=seanjin17&countColorcountColor&countColor=%237B1E7B"/>
 
-### Contact with me 📝
+### Lets connect 📝
 
 [<img align="left" alt="bilgehangecici.site" height="30px" src="https://cdn-icons-png.flaticon.com/512/3953/3953602.png" />][website]
 
